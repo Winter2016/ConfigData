@@ -1,4 +1,4 @@
 --
-word-config:
-  lucky-word: "Serendipity"
+wordConfig:
+  luckyWord: "Serendipity"
   preamble: “The lucky word is”
